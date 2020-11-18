@@ -179,6 +179,8 @@ page-img: "/assets/img/character_concept.png"
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
+baseurl: '/ARival'
+
 # Facebook App ID
 #fb_app_id: ""
 # --- You don't need to touch anything below here (but you can if you want) --- #
